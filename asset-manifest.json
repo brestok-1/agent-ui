@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/agent-io/static/css/main.452e8ce6.css",
+    "main.js": "/agent-io/static/js/main.5997f056.js",
+    "index.html": "/agent-io/index.html",
+    "main.452e8ce6.css.map": "/agent-io/static/css/main.452e8ce6.css.map",
+    "main.5997f056.js.map": "/agent-io/static/js/main.5997f056.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.452e8ce6.css",
+    "static/js/main.5997f056.js"
+  ]
+}
